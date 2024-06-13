@@ -1,0 +1,1 @@
+# python_mini_project_to_make_a_table_of_any_number
